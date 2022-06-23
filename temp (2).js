@@ -14,7 +14,7 @@ let dbparams={
 	host:'localhost',
 	user:'root',
 	password:'cdac',
-	databsae:'WBT',
+	databsae:'ShubhamPawar's_Db',
 	port:3306
 }
 console.log('DB working');
